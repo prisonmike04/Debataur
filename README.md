@@ -45,10 +45,10 @@ The platform allows users to:
 ---
 
 ## 📊 Dataset
-- **Debate-Specific Dataset** from Kaggle.
+- **Debate-Specific Dataset** from Kaggle and IBM.
 - **Argument Quality Datasets** from AI2.
 - **Political & Philosophical Debates** scraped from online sources.
-- **Custom Debate Data** generated via GPT-based simulations.
+
 
 ---
 
