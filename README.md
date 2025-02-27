@@ -74,15 +74,18 @@ The platform allows users to:
 
 ## 📦 2️⃣ Install Dependencies
 
-**pip install -r requirements.txt
-**cd frontend && yarn install
+pip install -r requirements.txt
+
+cd frontend && yarn install
 
 ## 🔄 3️⃣ Run Backend
-**cd backend
-**python main.py
+cd backend
+
+python main.py
 
 ## 🌍 4️⃣ Start Frontend
 
-**cd frontend
-**yarn dev
+cd frontend
+
+yarn dev
 
